@@ -80,6 +80,27 @@ The application features an intuitive **Swing-based GUI**, utilizes **Java Colle
   Null-safe cleanup via `clearTable()` methods.
 
 ---
+## 🖼 Screenshots
+
+### 🏠 Home Panel  
+*Welcome screen with business branding*  
+![Home Panel](assets/home.png)
+
+### ➕ Add Customer  
+*Form for entering customer data*  
+![Add Customer](assets/add_customer.png)
+
+### ➕ Add Product  
+*Form for entering customer data*  
+![Add Customer](assets/add_product.png)
+
+### - Remove Product  
+*Form for entering customer data*  
+![Add Customer](assets/remove_product.png)
+
+### 🧾 Generate Bill  
+*Itemized invoice with GST breakdown*  
+![Generate Bill](assets/generate_bill.png)
 
 ## 🚀 Future Scope
 
