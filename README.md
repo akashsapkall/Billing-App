@@ -84,23 +84,23 @@ The application features an intuitive **Swing-based GUI**, utilizes **Java Colle
 
 ### 🏠 Home Panel  
 *Welcome screen with business branding*  
-![Home Panel](assets/home.png)
+![Home Panel](assets/home.PNG)
 
 ### ➕ Add Customer  
 *Form for entering customer data*  
-![Add Customer](assets/add_customer.png)
+![Add Customer](assets/add_customer.PNG)
 
 ### ➕ Add Product  
 *Form for entering customer data*  
-![Add Customer](assets/add_product.png)
+![Add Customer](assets/add_product.PNG)
 
 ### - Remove Product  
 *Form for entering customer data*  
-![Add Customer](assets/remove_product.png)
+![Add Customer](assets/remove_product.PNG)
 
 ### 🧾 Generate Bill  
 *Itemized invoice with GST breakdown*  
-![Generate Bill](assets/generate_bill.png)
+![Generate Bill](assets/generate_bill.PNG)
 
 ## 🚀 Future Scope
 
